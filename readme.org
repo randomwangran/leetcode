@@ -1,0 +1,33 @@
+* cross the road
+
+1. check left shoulder
+
+    if no cars coming (   7 second  )
+   
+       turn head right
+       
+         if no cars coming ( 7 second )
+         
+         
+            go ahead
+            
+            
+              make sure YU GUANG scanning both side of the road
+              
+              
+              
+                cross the road
+                
+                
+    repeat.
+    
+    
+    
+    Exception, any information comings from ear, that indicates a car coming
+    
+    
+                 Exit
+                 
+            
+            
+            Have a good day.
